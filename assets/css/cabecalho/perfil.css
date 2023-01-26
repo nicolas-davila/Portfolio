@@ -1,0 +1,9 @@
+.img-perfil {
+    height: 100px;
+}
+
+@media screen and (min-width: 768px) {
+    .img-perfil {
+        height: 120px;
+    }
+}
