@@ -1,12 +1,11 @@
 .logotipos {
     color: white;
-    padding: 0.5% 4% 2% 0;
     height: 70px;
 }
 
 .logotipo-rckt {
     border-radius: 50%;
-    padding: 0.5% 4% 2% 0;
+    padding: 0 4% 2% 0;
     height: 70px;
 }
 

@@ -1,8 +1,11 @@
 .rodape {
     display: flex;
     justify-content: center;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    justify-content: space-between;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 185px;
+    margin-bottom: 10px;
 }
 
 @media (min-width: 768px) { 

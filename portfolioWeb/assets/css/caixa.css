@@ -1,0 +1,9 @@
+.caixa {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5px;
+    margin: auto;
+    max-width: auto;
+}
