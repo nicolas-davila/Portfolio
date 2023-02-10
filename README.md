@@ -1,5 +1,4 @@
 ## Objetivo deste repositório:
-<hr>
 
 Este repositório tem o objetivo de criar um portfólio web e ser usado como exemplo para outros portfólios. Nele foi usado estas ferramentas:
 
